@@ -1,0 +1,25 @@
+ .body {
+  display: flex;
+  flex-flow: column;
+ 
+  
+}
+div{
+    text-align:center;
+    margin: 0 auto;
+}
+.img2{
+    width:450px;
+    Height:350px;
+}
+.img3{
+    width:450px;
+    Height:350px;
+}
+h1{
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+}
